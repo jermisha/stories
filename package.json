@@ -1,5 +1,5 @@
 {
-    "name": "@csejtei/custom-button",
+    "name": "@jermisha/stories",
     "module": "/dist/custom-button",
     "description": "A custom button for ReactJS projects.",
     "version": "1.1.0",
@@ -7,7 +7,7 @@
         "name": "Dávid Csejtei",
         "email": "davidcsejtei90@gmail.com"
     },
-    "homepage": "https://github.com/davidcsejtei/custom-button#readme",
+    "homepage": "https://github.com/jermisha/stories#README",
     "repository": {
         "type": "git",
         "url": "git@github.com:davidcsejtei/custom-button.git"
